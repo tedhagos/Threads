@@ -62,6 +62,4 @@ public class WithThread extends AppCompatActivity {
     }
   };
 
-
-  
 }
